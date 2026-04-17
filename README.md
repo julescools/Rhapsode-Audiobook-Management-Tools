@@ -1,8 +1,7 @@
 # 🎙️ Rhapsode Audiobook File Manager
 > *An audiobook toolbox launcher designed specifically to help with managing Audiobookshelf self-hosted service.*
 >
-> A **rhapsode** was the ancient Greek performer who recited Homer and Virgil from memory — the Homeric equivalent of an audiobook narrator. Rhapsode-the-launcher recites on your behalf, dispatching a collection of audiobook-management scripts against the directory of your choice.
-
+> This is a collection of tools I wrote to help me manage audiobook files.  In the process of ripping your collection or downloading files, often times the formatting is at odds with the expectations of services like Audiobookshelf, which is what I use.  Hopefully you find these tools helpful in renaming, splitting, repairing, organizing, etc.  I am working on a main app that pulls the tools all into one working tool, but in the meantime all tools in the Tools folder are fully functional with detailed user prompts, file summaries, progress bars, error handling, and much more.  Everything I found useful to get my library in working order.
 ---
 
 ## ✨ What it does

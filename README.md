@@ -1,6 +1,5 @@
-# 🎙️ Rhapsode Audiobook File Manager (Designed for use with Audiobookshelf service)
-
-> *An audiobook toolbox launcher.*
+# 🎙️ Rhapsode Audiobook File Manager
+> *An audiobook toolbox launcher designed specifically to help with managing Audiobookshelf self-hosted service.*
 >
 > A **rhapsode** was the ancient Greek performer who recited Homer and Virgil from memory — the Homeric equivalent of an audiobook narrator. Rhapsode-the-launcher recites on your behalf, dispatching a collection of audiobook-management scripts against the directory of your choice.
 

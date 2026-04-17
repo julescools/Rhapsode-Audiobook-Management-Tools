@@ -1,4 +1,4 @@
-# 🎙️ Rhapsode
+# 🎙️ Rhapsode Audiobook File Manager (Designed for use with Audiobookshelf service)
 
 > *An audiobook toolbox launcher.*
 >
